@@ -5,7 +5,7 @@ This project applies **RFM segmentation** techniques to an e-commerce dataset fr
 ---
 
 ## 📊 Tools Used
-- Microsoft Excel (data cleaning, RFM scoring)
+- Microsoft Excel,python (data cleaning, RFM scoring)
 - Power BI (dashboard visualizations)
 - PowerPoint (executive summary)
 
@@ -17,13 +17,13 @@ This project applies **RFM segmentation** techniques to an e-commerce dataset fr
 |------|-------------|
 | `Ecommerce.pbix` | Power BI dashboard file |
 | `E-Commerce.pptx` | Presentation of insights and strategy |
-| `dashboard.png` | Screenshot preview of dashboard |
+| `dashboard.jpg` | Screenshot preview of dashboard |
 
 ---
 
 ## 📸 Dashboard Preview
 
-![Dashboard](dashboard_main.png)
+![Dashboard](https://github.com/TimsySingh/ecommerce-rfm-customer-segmentation/blob/main/Dashboard.jpg)
 
 ---
 
@@ -49,5 +49,9 @@ This project applies **RFM segmentation** techniques to an e-commerce dataset fr
 
 ## 🔐 Disclaimer
 This is a capstone-style educational project based on open data and does not reflect proprietary or production data.
+
+⚠️ Due to GitHub file size limitations, the full cleaned Excel dataset is not uploaded here.
+Please reach out if you'd like access to the original file (~500,000 rows, 25MB+).
+
 
 ---
